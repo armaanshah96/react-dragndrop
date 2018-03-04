@@ -1,0 +1,15 @@
+.List-shell {
+  border-radius: 5px;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.m-pd {
+}
+
+.title {
+  font-color: #bbb;
+  font-size: 1em;
+}
